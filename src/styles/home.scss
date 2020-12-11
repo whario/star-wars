@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+.row{
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: space-between;
+}
+.logo-starwars{
+    width: 150x;
+    height: 50px;
+}
+.img-detail{
+    width: 45%;
+}
+.text-detail{
+    width: 45%;
+}
+.navbar{
+    padding-left: 5%;
+    padding-right: 5%;
+}
